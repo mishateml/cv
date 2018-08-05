@@ -54,4 +54,21 @@ p {
 
 footer.page-footer {
   margin: 0;
+} 
+
+/* css for nav */
+ 
+nav img {
+  width: 1.5em;
+  padding: 3px;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+#logo-container{
+  font-family: 'Montserrat', sans-serif;
+}
+.sec-first__bg-img img{
+  width: 80%;
+  height: auto;
+
 }
