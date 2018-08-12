@@ -23,7 +23,7 @@ p {
   min-height: 380px;
   line-height: 0;
   height: auto;
-  color: rgba(255,255,255,.9);
+  color: rgb(107, 112, 197);
 }
   .parallax-container .section {
     width: 100%;
@@ -71,4 +71,8 @@ nav img {
   width: 80%;
   height: auto;
 
+}
+.sec-one{
+  margin-top: 15%;
+  margin-bottom: 15%;
 }
